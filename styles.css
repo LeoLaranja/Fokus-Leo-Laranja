@@ -12,11 +12,11 @@
 }
 
 [data-contexto="descanso-curto"] {
-    --main-bg-color: linear-gradient(180deg, #0F725C 0%, #041832 48.44%, #01080E 100%);
+    --main-bg-color: linear-gradient(180deg, #6af334 0%, #041832 48.44%, #01080E 100%);
 }
 
 [data-contexto="descanso-longo"] {
-    --main-bg-color: linear-gradient(180deg, #1875E9 0%, #041832 48.44%, #01080E 100%);
+    --main-bg-color: linear-gradient(180deg, #e96818 0%, #041832 48.44%, #01080E 100%);
 }
 
 * {
@@ -32,7 +32,7 @@ html {
 
 body {
     min-height: 100vh;
-    background: url("/imagens/pattern.png");
+    background: url("./imagens/pattern.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
